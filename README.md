@@ -24,3 +24,12 @@ GitHub Pages publishes the root of the main branch; `.nojekyll` disables Jekyll 
 ## Locomotion expansion
 
 The atlas now includes 245 references, with 34 curated quadruped locomotion studies exposed separately from quadruped-arm studies. Research directions include locomotion, perceptive locomotion, and agility/parkour. The two newly collected papers are arXiv:2201.08117 and arXiv:2309.14341; their source PDFs remain in the private local library, with public primary-source links. The homepage uses an AI-generated conceptual pair portrait, compressed as a local JPEG; it does not identify commercial models.
+
+
+## Code, projects, figures, and imports
+
+The resource audit covers all 245 catalog entries: 69 papers have verified public code links, 34 have at least one verified standard open-source license, and 96 have an author project or companion-resource page. A missing link means not verified, not that no release exists. Author links in abstracts and the first two PDF pages were screened; access failures and uncaptured later-page links remain limitations. Each resource keeps its source and check date. Download `assets/resource-index.csv` for the full index.
+
+62 paper overviews are reproduced from the locally held original PDFs with author credit, source, page, and figure number. The website loads each compressed image only when needed; missing overviews are explicitly marked.
+
+Use **Import papers** for BibTeX/JSON preview, deduplication, browser-local storage, backup, and removal. See [IMPORT.md](IMPORT.md) for formats and publishing to the shared site through `papers.custom.json`. Imported records remain separate from manuscript citations. Both the runtime and repository exporter preserve the custom overlay and use the same normalizer.

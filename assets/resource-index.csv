@@ -1,0 +1,246 @@
+ID,Title,Scope,Code repositories,Verified open-source licenses,Project homepages,Overview figure,Audit status
+D01,Towards a Multi-legged Mobile Manipulator,direct,,,,assets/figures/D01_overview.webp,not_verified
+D02,ALMA - Articulated Locomotion and Manipulation for a Torque-Controllable Robot,direct,,,,,not_verified
+D03,A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation,direct,,,,assets/figures/D03_overview.webp,not_verified
+D04,A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation,direct,,,,,not_verified
+D05,Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation,direct,,,,assets/figures/D05_overview.webp,not_verified
+D06,RoLoMa: Robust Loco-Manipulation for Quadruped Robots with Arms,direct,,,,,not_verified
+D07,Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion,direct,,,https://maniploco.github.io,assets/figures/D07_overview.webp,project_verified
+D08,Learning Legged Mobile Manipulation Using Reinforcement Learning,direct,,,,,not_verified
+D09,RoboDuet: Learning a Cooperative Policy for Whole-body Legged Loco-Manipulation,direct,https://github.com/locomanip-duet/RoboDuet,MIT,https://locomanip-duet.github.io,assets/figures/D09_overview.webp,code_and_project_verified
+D10,Visual Whole-Body Control for Legged Loco-Manipulation,direct,https://github.com/Ericonaldo/visual_wholebody,,https://wholebody-b1.github.io/,assets/figures/D10_overview.webp,code_and_project_verified
+D11,Learning Force Control for Legged Manipulation,direct,,,https://tif-twirl-13.github.io/learning-compliance,assets/figures/D11_overview.webp,project_verified
+D12,UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers,direct,https://github.com/real-stanford/umi-on-legs,MIT,https://umi-on-legs.github.io,assets/figures/D12_overview.webp,code_and_project_verified
+D13,QuadWBG: Generalizable Quadrupedal Whole-Body Grasping,direct,,,https://quadwbg.github.io,assets/figures/D13_overview.webp,project_verified
+D14,WildLMa: Long Horizon Loco-Manipulation in the Wild,direct,,,https://wildlma.github.io,assets/figures/D14_overview.webp,project_verified
+D15,ASC: Adaptive Skill Coordination for Robotic Mobile Manipulation,direct,,,https://adaptiveskillcoordination.github.io,,project_verified
+D16,Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds,direct,https://github.com/oliver-lemke/spot-compose,MIT,https://spot-compose.github.io/,assets/figures/D16_overview.webp,code_and_project_verified
+D17,Continuously Improving Mobile Manipulation with Autonomous Real-World RL,direct,,,https://continual-mobile-manip.github.io/,assets/figures/D17_overview.webp,project_verified
+D18,Combining Planning and Diffusion for Mobility with Unknown Dynamics,direct,,,https://yravan.github.io/plannerorderedpolicy/,,project_verified
+D19,Efficient Learning of A Unified Policy For Whole-body Manipulation and Locomotion Skills,direct,,,https://ecstayalive.github.io/posts/PhysicsFeasibilityGuidedOptimization/,assets/figures/D19_overview.webp,project_verified
+D20,ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks,direct,,,https://kaijwang.github.io/odyssey.github.io/,assets/figures/D20_overview.webp,project_verified
+D21,Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies,direct,https://github.com/PokuangZhou/tactile-aware-quadrupedal-loco-manipulation/tree/main/code,,https://pokuangzhou.github.io/tactile-aware-quadrupedal-loco-manipulation/,assets/figures/D21_overview.webp,code_and_project_verified
+D22,Learning Terrain-Aware Whole-Body Control for Perceptive Legged Loco-Manipulation,direct,,,,assets/figures/D22_overview.webp,not_verified
+B01,Whole-Body MPC for a Dynamically Stable Mobile Manipulator,background,,,,,not_verified
+B02,Proximal Policy Optimization Algorithms,background,,,,,not_verified
+H1,"Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning",survey,,,,,not_verified
+H2,Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots,survey,,,https://github.com/friedrichyuan/awesome-bfm-papers,,project_verified
+H3,Interactive Imitation Learning for Dexterous Robotic Manipulation: Challenges and Perspectives -- A Survey,survey,,,,,not_verified
+C220800810,A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators,direct,,,,,not_verified
+C220913145,Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots,adjacent,,,,,not_verified
+C221006803,Trajectory Optimization for Quadruped Mobile Manipulators that Carry Heavy Payload,direct,,,,,not_verified
+C231002907,Whole-body MPC for highly redundant legged manipulators: experimental evaluation with a 37 DoF dual-arm quadruped,direct,,,,assets/figures/C231002907_overview.webp,not_verified
+C230704918,Kinematically-Decoupled Impedance Control for Fast Object Visual Servoing and Grasping on Quadruped Manipulators,direct,,,,,not_verified
+C230708838,Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach,direct,,,,,not_verified
+C220714745,Collision detection and identification for a legged manipulator,direct,,,,assets/figures/C220714745_overview.webp,not_verified
+C210807658,Passivity-based control for haptic teleoperation of a legged manipulator in presence of time-delays,direct,,,,,not_verified
+C220714635,Haptic Teleoperation of High-dimensional Robotic Systems Using a Feedback MPC Framework,direct,,,,assets/figures/C220714635_overview.webp,not_verified
+C220910314,TeLeMan: Teleoperation for Legged Robot Loco-Manipulation using Wearable IMU-based Motion Capture,direct,,,,assets/figures/C220910314_overview.webp,not_verified
+C210310534,Articulated Object Interaction in Unknown Scenes with Whole-Body Mobile Manipulation,direct,,,https://www.pair.toronto.edu/articulated-mm/,assets/figures/C210310534_overview.webp,project_verified
+C220103871,Combining Learning-based Locomotion Policy with Model-based Manipulation for Legged Mobile Manipulators,direct,,,,assets/figures/C220103871_overview.webp,not_verified
+C200210552,Optimisation of Body-ground Contact for Augmenting Whole-Body Loco-manipulation of Quadruped Robots,adjacent,,,,,not_verified
+C250722042,A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics,direct,,,,assets/figures/C250722042_overview.webp,not_verified
+C251119709,Whole-Body Inverse Dynamics MPC for Legged Loco-Manipulation,direct,https://github.com/lukasmolnar/wb-mpc-locoman,MIT,https://lukasmolnar.github.io/wb-mpc-locoman/,assets/figures/C251119709_overview.webp,code_and_project_verified
+C241005681,Whole-Body Dynamic Throwing with Legged Manipulators,direct,,,,assets/figures/C241005681_overview.webp,not_verified
+C250719652,RAKOMO: Reachability-Aware K-Order Markov Path Optimization for Quadrupedal Loco-Manipulation,direct,,,,assets/figures/C250719652_overview.webp,not_verified
+C250808328,Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators,direct,https://github.com/YoungYNG/DQ_WBC,,https://kolakivy.github.io/DQ/,assets/figures/C250808328_overview.webp,code_and_project_verified
+C250406662,RAMBO: RL-Augmented Model-Based Whole-Body Control for Loco-Manipulation,adjacent,https://github.com/catachiii/rambo,,https://jin-cheng.me/rambo.github.io/,,code_and_project_verified
+C260302443,Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control,direct,,,,assets/figures/C260302443_overview.webp,not_verified
+C221003442,Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control,background,,,,,not_verified
+C241011023,Safety-critical Motion Planning for Collaborative Legged Loco-Manipulation over Discrete Terrain,background,,,,,not_verified
+C241110699,Hierarchical Adaptive Motion Planning with Nonlinear Model Predictive Control for Safety-Critical Collaborative Loco-Manipulation,background,https://github.com/DRCL-USC/collaborative_loco_manipulation,MIT,,,code_verified
+C260307095,ACLM: ADMM-Based Distributed Model Predictive Control for Collaborative Loco-Manipulation,background,,,https://admm-clm.github.io/,,project_verified
+C200800191,Dynamic Legged Manipulation of a Ball Through Multi-Contact Optimization,background,,,,assets/figures/C200800191_overview.webp,not_verified
+C221005195,Real-time Trajectory Optimization and Control for Ball Bumping with Quadruped Robots,background,,,,assets/figures/C221005195_overview.webp,not_verified
+C181100884,Passive Whole-body Control for Quadruped Robots: Experimental Validation over Challenging Terrain,locomotion,,,,,not_verified
+C190906586,Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control,locomotion,,,,assets/figures/C190906586_overview.webp,not_verified
+C200305481,"Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control",locomotion,,,,assets/figures/C200305481_overview.webp,not_verified
+C190412306,STANCE: Locomotion Adaptation over Soft Terrain,locomotion,,,,assets/figures/C190412306_overview.webp,not_verified
+C220506526,WoLF: the Whole-body Locomotion Framework for Quadruped Robots,background,,,,assets/figures/C220506526_overview.webp,not_verified
+C221003713,Integration of Riemannian Motion Policy with Whole-Body Control for Collision-Free Legged Locomotion,background,,,,assets/figures/C221003713_overview.webp,not_verified
+C250210761,A Whole-Body Disturbance Rejection Control Framework for Dynamic Motions in Legged Robots,locomotion,,,,assets/figures/C250210761_overview.webp,not_verified
+C241209816,Distributed Inverse Dynamics Control for Quadruped Robots using Geometric Optimization,locomotion,,,,,not_verified
+C171202889,Whole-Body Nonlinear Model Predictive Control Through Contacts for Quadrupeds,locomotion,,,,,not_verified
+C171004029,Real-Time Motion Planning of Legged Robots: A Model Predictive Control Approach,locomotion,,,,assets/figures/C171004029_overview.webp,not_verified
+C190506144,Feedback MPC for Torque-Controlled Legged Robots,locomotion,,,,,not_verified
+C201210002,Representation-Free Model Predictive Control for Dynamic Motions in Quadrupeds,locomotion,,,,,not_verified
+C210505998,Model Predictive Control with Environment Adaptation for Legged Locomotion,locomotion,,,,,not_verified
+C220710465,Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis,locomotion,,,,,not_verified
+C220808373,Perceptive Locomotion through Nonlinear Model Predictive Control,locomotion,,,,assets/figures/C220808373_overview.webp,not_verified
+C240311742,Accelerating Model Predictive Control for Legged Robots through Distributed Optimization,background,https://github.com/iit-DLSLab/DWMPC,,,assets/figures/C240311742_overview.webp,code_verified
+C240710789,Tailoring Solution Accuracy for Fast Whole-body Model Predictive Control of Legged Robots,background,,,,,not_verified
+C240909940,Robots with Attitude: Singularity-Free Quaternion-Based Model-Predictive Control for Agile Legged Robots,locomotion,https://github.com/zixinz990/quaternion-mpc,AGPL-3.0,,assets/figures/C240909940_overview.webp,code_verified
+C250304613,Whole-Body Model-Predictive Control of Legged Robots with MuJoCo,locomotion,https://github.com/johnzhang3/mujoco_mpc_deploy/tree/main,MIT,https://johnzhang3.github.io/mujoco_ilqr/,,code_and_project_verified
+C231208961,Contact-Implicit Model Predictive Control: Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories,locomotion,,,,,not_verified
+C180904539,Frequency-Aware Model Predictive Control,background,,,,,not_verified
+C220308728,An Error-State Model Predictive Control on Connected Matrix Lie Groups for Legged Robot Control,locomotion,https://github.com/UMich-CURLY/Error-State-MPC,MIT,,assets/figures/C220308728_overview.webp,code_verified
+C240303995,Cafe-Mpc: A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control,locomotion,,,,,not_verified
+C220710175,Optimization-Based Reference Generator for Nonlinear Model Predictive Control of Legged Robots,background,,,,assets/figures/C220710175_overview.webp,not_verified
+C201100032,Multi-Layered Safety for Legged Robots via Control Barrier Functions and Model Predictive Control,locomotion,,,,assets/figures/C201100032_overview.webp,not_verified
+C240314159,Robustifying Model-Based Locomotion by Zero-order Stochastic Nonlinear Model Predictive Control with Guard Saltation Matrix,background,,,,,not_verified
+C170510313,Fast Trajectory Optimization for Legged Robots using Vertex-based ZMP Constraints,locomotion,,,,,not_verified
+C191006855,On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics,locomotion,,,,,not_verified
+C200608102,Hybrid Systems Differential Dynamic Programming for Whole-Body Motion Planning of Legged Robots,locomotion,,,,,not_verified
+C230404923,Staged Contact Optimization: Combining Contact-Implicit and Multi-Phase Hybrid Trajectory Optimization,background,,,,,not_verified
+C200912409,Robust Trajectory Optimization over Uncertain Terrain with Stochastic Complementarity,background,,,,,not_verified
+C171206833,Application of Wrench based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots,locomotion,,,,,not_verified
+C160508571,Structured contact force optimization for kino-dynamic motion generation,background,,,,,not_verified
+C220614049,TAMOLS: Terrain-Aware Motion Optimization for Legged Systems,background,,,,,not_verified
+C220915566,ContactNet: Online Multi-Contact Planning for Acyclic Legged Robot Locomotion,locomotion,,,,,not_verified
+C230904469,Multi-contact Stochastic Predictive Control for Legged Robots with Contact Locations Uncertainty,locomotion,,,,,not_verified
+C210108246,Trajectory optimization for contact-rich motions using implicit differential dynamic programming,background,,,,,not_verified
+C210509973,Mediating between Contact Feasibility and Robustness of Trajectory Optimization through Chance Complementarity Constraints,background,,,,,not_verified
+C200110629,Planning for the Unexpected: Explicitly Optimizing Motions for Ground Uncertainty in Running,background,,,,,not_verified
+C200812687,Online Dynamic Trajectory Optimization and Control for a Quadruped Robot,locomotion,,,,,not_verified
+C211006764,Contact-timing and Trajectory Optimization for 3D Jumping on Quadruped Robots,locomotion,,,,,not_verified
+C14107284,Momentum Control with Hierarchical Inverse Dynamics on a Torque-Controlled Humanoid,background,,,,,not_verified
+C13052042,Balancing experiments on a torque-controlled humanoid with hierarchical inverse dynamics,background,,,,,not_verified
+C150601075,ControlIt! - A Software Framework for Whole-Body Operational Space Control,background,,,,,not_verified
+C14103863,"Prioritized motion-force control of constrained fully-actuated robots: ""Task Space Inverse Dynamics""",background,,,,,not_verified
+C150903355,Inverse Dynamics with Rigid Contact and Friction,background,,,,,not_verified
+C220905375,Inverse-Dynamics MPC via Nullspace Resolution,background,,,,,not_verified
+L260710132,TAC-LOCO: Unified Whole-Body Control for Quadrupedal TACtile-Informed LOCO-Manipulation,direct,,,,assets/figures/L260710132_overview.webp,not_verified
+L260624466,FT-WBC: Learning Fault-Tolerant Whole-Body Control for Legged Loco-Manipulation,direct,https://github.com/hhhappyshow/FT-WBC-Learning-Fault-Tolerant-Whole-Body-Control-for-Legged-Loco-Manipulation,,https://ft-wbc.github.io/,assets/figures/L260624466_overview.webp,code_and_project_verified
+L260408508,Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation,direct,https://github.com/rai-opensource/sumo/tree/main,MIT,https://sumo.rai-inst.com/,assets/figures/L260408508_overview.webp,code_and_project_verified
+L250914342,Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move,direct,,,,assets/figures/L250914342_overview.webp,not_verified
+L250810538,MLM: Learning Multi-task Loco-Manipulation Whole-Body Control for Quadruped Robot with Arm,direct,,,,assets/figures/L250810538_overview.webp,not_verified
+L250708656,Multi-critic Learning for Whole-body End-effector Twist Tracking,direct,,,https://multi-critic-locomanipulation.github.io,assets/figures/L250708656_overview.webp,project_verified
+L250607876,Versatile Loco-Manipulation through Flexible Interlimb Coordination,direct,,,,assets/figures/L250607876_overview.webp,not_verified
+L250616475,Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining,adjacent,https://github.com/chrisyrniu/Human2LocoMan,MIT,https://human2bots.github.io,,code_and_project_verified
+L250522974,Learning coordinated badminton skills for legged manipulators,direct,,,,assets/figures/L250522974_overview.webp,not_verified
+L250520829,Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation,direct,,,https://unified-force.github.io/,assets/figures/L250520829_overview.webp,project_verified
+L250301474,Interactive Navigation for Legged Manipulators with Learned Arm-Pushing Controller,direct,https://github.com/Zhihaibi/Interactive-Navigation-for-legged-manipulator.git,GPL-3.0,https://zhihaibi.github.io/interactive-push.github.io/,assets/figures/L250301474_overview.webp,code_and_project_verified
+L250210894,Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation,direct,https://github.com/nolie-rolie/athletic-loco-manipulation,,https://uan.csail.mit.edu/,assets/figures/L250210894_overview.webp,code_and_project_verified
+L250109905,SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning,direct,,,,assets/figures/L250109905_overview.webp,not_verified
+L241203012,Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator,adjacent,,,https://clearlab-sustech.github.io/RFM_loco_mani/,,project_verified
+L241107104,Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing,adjacent,https://github.com/collaborative-mapush/MAPush,,https://collaborative-mapush.github.io,,code_and_project_verified
+L241000231,Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models,adjacent,https://github.com/WooQi57/Helpful-Doggybot,,https://helpful-doggybot.github.io/,,code_and_project_verified
+L240916048,Whole-body End-Effector Pose Tracking,direct,,,https://tif-twirl-13.github.io/wholebody-pose-control,,project_verified
+L240907195,Perceptive Pedipulation with Local Obstacle Avoidance,adjacent,,,https://sites.google.com/leggedrobotics.com/perceptive-pedipulation,,project_verified
+L240904882,Learning to Open and Traverse Doors with a Legged Manipulator,direct,,,,assets/figures/L240904882_overview.webp,not_verified
+L240801258,Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation,direct,,,https://jacta-manipulation.github.io/,,project_verified
+L240320328,Learning Visual Quadrupedal Loco-Manipulation from Demonstrations,adjacent,,,https://zhengmaohe.github.io/leg-manip/,,project_verified
+L240318197,LocoMan: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators,adjacent,https://github.com/linchangyi1/LocoMan,,https://linchangyi1.github.io/LocoMan/,,code_and_project_verified
+L240316535,Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot,adjacent,https://github.com/aCodeDog/legged-robots-manipulation.git,,https://acodedog.github.io/wheel-legged-loco-manipulation/,,code_and_project_verified
+L230915459,GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion,direct,https://github.com/user432/gamma,,https://pku-epic.github.io/GAMMA/,,code_and_project_verified
+L230401159,DribbleBot: Dynamic Legged Manipulation in the Wild,adjacent,https://github.com/Improbable-AI/dribblebot,,https://gmargo11.github.io/dribblebot/,,code_and_project_verified
+L230311330,Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion,adjacent,,,https://robot-skills.github.io,,project_verified
+L251218938,A Framework for Deploying Learning-based Quadruped Loco-Manipulation,direct,,,,,not_verified
+L230816820,Learning Whole-body Manipulation for Quadrupedal Robot,adjacent,,,,,not_verified
+L180101290,Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,background,,,,,not_verified
+L150205477,Trust Region Policy Optimization,background,,,,,not_verified
+L150602438,High-Dimensional Continuous Control Using Generalized Advantage Estimation,background,,,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/gaepapersupp&followup=https://sites.google.com/site/gaepapersupp&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S86132915:1788903111403952,,project_verified
+L160603476,Generative Adversarial Imitation Learning,background,,,,,not_verified
+L10110686,A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning,background,,,,,not_verified
+L170306907,Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World,background,,,,,not_verified
+L171006537,Sim-to-Real Transfer of Robotic Control with Dynamics Randomization,background,,,,,not_verified
+L180410332,Sim-to-Real: Learning Agile Locomotion For Quadruped Robots,locomotion,,,,,not_verified
+L210704034,RMA: Rapid Motor Adaptation for Legged Robots,locomotion,https://github.com/antonilo/rl_locomotion,GPL-3.0,https://ashish-kmr.github.io/rma-legged-robots/,,code_and_project_verified
+L210911978,Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning,locomotion,https://github.com/leggedrobotics/legged_gym,,https://leggedrobotics.github.io/legged_gym/,,code_and_project_verified
+L220807860,A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning,locomotion,https://github.com/ikostrikov/walk_in_the_park,MIT,https://sites.google.com/berkeley.edu/walk-in-the-park,,code_and_project_verified
+L230304137,Diffusion Policy: Visuomotor Policy Learning via Action Diffusion,background,https://github.com/columbia-ai-robotics/diffusion_policy,,https://diffusion-policy.cs.columbia.edu,,code_and_project_verified
+L240210329,Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots,background,https://github.com/real-stanford/universal_manipulation_interface,MIT,https://umi-gripper.github.io,,code_and_project_verified
+L230413705,Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware,background,https://github.com/tonyzhaozh/aloha | https://github.com/tonyzhaozh/act,MIT | MIT,https://tonyzhaozh.github.io/aloha/,,code_and_project_verified
+L240102117,Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation,background,https://github.com/MarkFzp/mobile-aloha | https://github.com/MarkFzp/act-plus-plus,MIT | MIT,https://mobile-aloha.github.io,,code_and_project_verified
+L231008864,Open X-Embodiment: Robotic Learning Datasets and RT-X Models,background,https://github.com/google-deepmind/open_x_embodiment,Apache-2.0,https://robotics-transformer-x.github.io,,code_and_project_verified
+L230603310,LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning,background,,,https://libero-project.github.io,,project_verified
+L191007113,Solving Rubik's Cube with a Robot Hand,background,,,,,not_verified
+L180402717,DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills,background,,,,,not_verified
+L200400784,Learning Agile Robotic Locomotion Skills by Imitating Animals,locomotion,https://github.com/google-research/motion_imitation,Apache-2.0,https://xbpeng.github.io/projects/Robotic_Imitation/,,code_and_project_verified
+L190808659,A Comparison of Action Spaces for Learning Manipulation Tasks,background,,,,,not_verified
+L181203201,Residual Reinforcement Learning for Robot Control,background,,,https://residualrl.github.io,,project_verified
+L180209477,Addressing Function Approximation Error in Actor-Critic Methods,background,https://github.com/sfujim/TD3,MIT,,,code_verified
+L200604779,Conservative Q-Learning for Offline Reinforcement Learning,background,,,,,not_verified
+L211006169,Offline Reinforcement Learning with Implicit Q-Learning,background,https://github.com/ikostrikov/implicit_policy_improvement,MIT,,,code_verified
+L230715818,RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,background,,,https://robotics-transformer2.github.io,,project_verified
+L240512213,Octo: An Open-Source Generalist Robot Policy,background,https://github.com/octo-models/octo,MIT,https://octo-models.github.io,,code_and_project_verified
+S260310529,BinWalker: Development and Field Evaluation of a Quadruped Manipulator Platform for Sustainable Litter Collection,direct,https://github.com/iit-DLSLab/trash-collection-isaaclab,BSD-3-Clause,,,code_verified
+S240215025,Practice Makes Perfect: Planning to Learn Skill Parameter Policies,direct,,,,assets/figures/S240215025_overview.webp,not_verified
+S230706135,SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning,background,,,https://sayplan.github.io,,project_verified
+S260606877,Neuro-Symbolic Learning for Long-Horizon Task Planning Under Complex Logical Constraints,direct,,,,assets/figures/S260606877_overview.webp,not_verified
+S230916650,ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning,direct,https://github.com/concept-graphs/concept-graphs,MIT,https://concept-graphs.github.io/,,code_and_project_verified
+S230207241,ConceptFusion: Open-set Multimodal 3D Mapping,background,https://github.com/concept-fusion/concept-fusion,MIT,https://concept-fusion.github.io,,code_and_project_verified
+S221005714,Visual Language Maps for Robot Navigation,background,https://github.com/vlmaps/vlmaps.git,MIT,https://vlmaps.github.io,,code_and_project_verified
+S221115654,OpenScene: 3D Scene Understanding with Open Vocabularies,background,https://github.com/pengsongyou/openscene,Apache-2.0,https://pengsongyou.github.io/openscene,,code_and_project_verified
+S220401691,"Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",background,https://github.com/google-research/google-research/tree/master/saycan,Apache-2.0,https://say-can.github.io/,,code_and_project_verified
+S220705608,Inner Monologue: Embodied Reasoning through Planning with Language Models,background,,,https://innermonologue.github.io,,project_verified
+S220907753,Code as Policies: Language Model Programs for Embodied Control,background,https://github.com/google-research/google-research/tree/master/code_as_policies,Apache-2.0,https://code-as-policies.github.io,,code_and_project_verified
+S230705973,VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models,background,https://github.com/huangwl18/VoxPoser,MIT,https://voxposer.github.io,,code_and_project_verified
+S220911302,ProgPrompt: Generating Situated Robot Task Plans using Large Language Models,background,https://github.com/NVlabs/progprompt-vh,,https://progprompt.github.io,,code_and_project_verified
+S230505658,TidyBot: Personalized Robot Assistance with Large Language Models,background,,,,,not_verified
+S240112202,OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics,background,https://github.com/ok-robot/ok-robot,MIT,https://ok-robot.github.io,,code_and_project_verified
+S230611565,HomeRobot: Open-Vocabulary Mobile Manipulation,background,https://github.com/facebookresearch/home-robot,MIT,https://ovmm.github.io/,,code_and_project_verified
+S230513567,M-EMBER: Tackling Long-Horizon Mobile Manipulation via Factorized Domain Transfer,background,,,,,not_verified
+S210804145,Long-Horizon Manipulation of Unknown Objects via Task and Motion Planning with Estimated Affordances,background,,,https://www.youtube.com/playlist?list=PLNpZKR7uv5ASo9bhcE9IHluuqAUkZZ2SC&cbrd=1&ucbcb=1,,project_verified
+S180208705,PDDLStream: Integrating Symbolic Planners and Blackbox Samplers via Optimistic Adaptive Planning,background,,,,,not_verified
+S201001083,Integrated Task and Motion Planning,survey,,,,,not_verified
+S160801335,FFRob: Leveraging Symbolic Planning for Efficient Task and Motion Planning,background,,,,,not_verified
+S210614405,Habitat 2.0: Training Home Assistants to Rearrange their Habitat,background,,,https://sites.google.com/view/habitat2,,project_verified
+S231013724,"Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots",background,https://github.com/facebookresearch/habitat-lab/ | https://github.com/facebookresearch/habitat-sim,MIT | MIT,https://aihabitat.org/habitat3/,,code_and_project_verified
+S240309227,"BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation",background,https://github.com/StanfordVL/BEHAVIOR-1K,,https://behavior.stanford.edu,,code_and_project_verified
+S210803332,"BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments",background,,,https://behavior.stanford.edu,,project_verified
+S190912271,RLBench: The Robot Learning Benchmark & Learning Environment,background,https://github.com/stepjam/RLBench,,https://sites.google.com/view/rlbench,,code_and_project_verified
+S211203227,CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks,background,,,,,not_verified
+S230204659,ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills,background,https://github.com/haosulab/ManiSkill2,,,,code_verified
+S240602523,RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots,background,https://github.com/robocasa/robocasa,,https://robocasa.ai/,,code_and_project_verified
+S191010897,Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning,background,https://github.com/rlworkgroup/metaworld,,,,code_verified
+S200912293,robosuite: A Modular Simulation Framework and Benchmark for Robot Learning,background,https://github.com/ARISE-Initiative/robosuite,,https://robosuite.ai,,code_and_project_verified
+S211201942,A Survey of Robot Manipulation in Contact,survey,,,,,not_verified
+S180400175,DeepIM: Deep Iterative Matching for 6D Pose Estimation,background,,,,,not_verified
+S190401201,Habitat: A Platform for Embodied AI Research,background,https://github.com/facebookresearch/habitat-sim | https://github.com/facebookresearch/habitat-lab,MIT | MIT,https://aihabitat.org,,code_and_project_verified
+S230305499,Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection,background,https://github.com/IDEA-Research/GroundingDINO,Apache-2.0,,,code_verified
+S240307563,Learning Generalizable Feature Fields for Mobile Manipulation,direct,,,https://geff-b1.github.io,,project_verified
+S250113338,CuriousBot: Interactive Mobile Exploration via Actionable 3D Relational Object Graph,direct,,,https://bdaiinstitute.github.io/curiousbot/,assets/figures/S250113338_overview.webp,project_verified
+S251212842,SAGA: Open-World Mobile Manipulation via Structured Affordance Grounding,direct,,,https://robot-saga.github.io,assets/figures/S251212842_overview.webp,project_verified
+S260612956,SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation,background,https://github.com/ExistentialRobotics/SERF-VLA | https://github.com/ExistentialRobotics/SERF-mapping,,https://existentialrobotics.org/serf/,,code_and_project_verified
+S250307135,VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation,direct,https://github.com/HanzhiC/vidbot,,https://hanzhic.github.io/vidbot-project/,assets/figures/S250307135_overview.webp,code_and_project_verified
+S220606489,BEHAVIOR in Habitat 2.0: Simulator-Independent Logical Task Description for Benchmarking Embodied AI Agents,background,,,,,not_verified
+S240908212,Adaptive Language-Guided Abstraction from Contrastive Explanations,direct,,,,,not_verified
+S250900570,ConceptBot: Enhancing Robot's Autonomy through Task Decomposition with Large Language Models and Knowledge Graph,background,,,https://sites.google.com/view/conceptbot,,project_verified
+S240611231,Enabling robots to follow abstract instructions and complete complex dynamic tasks,background,,,,,not_verified
+S241210447,TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning,background,https://github.com/jimmyyhwu/tidybot2,,https://tidybot2.github.io,,code_and_project_verified
+S240308605,Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation,background,https://github.com/robot-learning-freiburg/MoMa-LLM,,https://moma-llm.cs.uni-freiburg.de,,code_and_project_verified
+S210314127,Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes,background,,,,,not_verified
+S231102873,OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data,background,https://github.com/shiyoung77/OVIR-3D,,,,code_verified
+S200308515,SAPIEN: A SimulAted Part-based Interactive ENvironment,background,,,,,not_verified
+S240707788,BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark,background,https://github.com/chernyadev/bigym,,https://chernyadev.github.io/bigym/,,code_and_project_verified
+S210803272,iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks,background,https://github.com/StanfordVL/iGibson,,https://svl.stanford.edu/igibson/,,code_and_project_verified
+S210102692,Where2Act: From Pixels to Actions for Articulated 3D Objects,background,https://github.com/daerduoCarey/where2act,,https://cs.stanford.edu/~kaichun/where2act/,,code_and_project_verified
+S250305652,BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities,background,https://github.com/behavior-robot-suite/brs-algo | https://github.com/behavior-robot-suite/brs-ctrl,,https://behavior-robot-suite.github.io/,,code_and_project_verified
+S231208344,FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects,background,https://github.com/NVlabs/FoundationPose,,https://nvlabs.github.io/FoundationPose/,,code_and_project_verified
+S230312153,Text2Motion: From Natural Language Instructions to Feasible Plans,background,,,https://sites.google.com/stanford.edu/text2motion,,project_verified
+S230402643,Segment Anything,background,,,,,not_verified
+S230617030,SkiROS2: A skill-based Robot Control Platform for ROS,background,,,,,not_verified
+S260216356,Articulated 3D Scene Graphs for Open-World Mobile Manipulation,direct,,,https://momasg.cs.uni-freiburg.de,,project_verified
+S240308094,Task and Motion Planning in Hierarchical 3D Scene Graphs,direct,,,,,not_verified
+S250417901,Task and Skill Planning: Hierarchical Robot Planning with Black-Box Skills,direct,,,,,not_verified
+S251008568,NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos,direct,https://github.com/bdaiinstitute/NovaFlow,,https://novaflow.lhy.xyz/,assets/figures/S251008568_overview.webp,code_and_project_verified
+S260315223,Coupled Particle Filters for Robust Affordance Estimation,background,https://github.com/tu-rbo/CoupledParticleFilters,,,,code_verified
+V200407400,Affordances in Robotic Tasks -- A Survey,survey,,,https://paolaardon.github.io/affordance_in_robotic_tasks_survey/,,project_verified
+V240418201,What Foundation Models can Bring for Robot Learning in Manipulation : A Survey,survey,,,,,not_verified
+V200505842,A Survey of Behavior Trees in Robotics and AI,survey,,,,,not_verified
+V220203631,Robotic Grasping from Classical to Modern: A Survey,survey,,,,,not_verified
+V231107226,Large Language Models for Robotics: A Survey,survey,,,,,not_verified
+V260427621,Robot Learning from Human Videos: A Survey,survey,,,https://github.com/IRMVLab/awesome-robot-learning-from-human-videos,,project_verified
+V250403515,Dexterous Manipulation through Imitation Learning: A Survey,survey,,,,,not_verified
+V13092660,Data-Driven Grasp Synthesis - A Survey,survey,,,,,not_verified
+V240402817,A Survey of Optimization-based Task and Motion Planning: From Classical To Learning Approaches,survey,,,,,not_verified
+V251222983,Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives,survey,,,https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation,,project_verified
+V200913303,Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey,survey,,,,,not_verified
+V160700442,Datasets on object manipulation and interaction: a survey,survey,,,,,not_verified
+V250411827,Towards Forceful Robotic Foundation Models: a Literature Survey,survey,,,,,not_verified
+V230203122,State-wise Safe Reinforcement Learning: A Survey,survey,,,,,not_verified
+V210203861,Dynamic Movement Primitives in Robotics: A Tutorial Survey,survey,,,,,not_verified
+V250408438,Diffusion Models for Robotic Manipulation: A Survey,survey,,,,,not_verified
+V250303464,Generative Artificial Intelligence in Robotic Manipulation: A Survey,survey,,,https://github.com/GAI4Manipulation/AwesomeGAIManipulation,,project_verified
+V221100600,Interactive Imitation Learning in Robotics: A Survey,survey,,,,,not_verified
+VS01,Model predictive control of legged and humanoid robots: models and algorithms,survey,,,,,not_verified
+VS02,"Loco-Manipulation With Quadruped Robots: Modeling, Task Taxonomy, and Control Methods—A Critical Review",survey,,,,,not_verified
+VS03,Imitation learning for legged robot locomotion: a survey,survey,,,,,not_verified
+VS04,A Systematic Review of Deep Reinforcement Learning for Legged Robot Locomotion,survey,,,,,not_verified
+VS05,"A survey of the development of quadruped robots: Joint configuration, dynamic locomotion control method and mobile manipulation approach",survey,,,,,not_verified
+V190703146,"A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms",survey,,,,,not_verified
+V240803539,Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes,survey,,,,,not_verified
+E01,Go Fetch! - Dynamic Grasps using Boston Dynamics Spot with External Robotic Arm,direct,,,,,not_verified
+Q220108117,Learning robust perceptive locomotion for quadrupedal robots in the wild,locomotion,,,,,not_verified
+Q230914341,Extreme Parkour with Legged Robots,locomotion,https://github.com/chengxuxin/extreme-parkour,,https://extreme-parkour.github.io/,,code_and_project_verified
