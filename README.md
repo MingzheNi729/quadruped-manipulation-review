@@ -19,3 +19,8 @@ From this directory: `python3 -m http.server 8765`. Open http://localhost:8765/ 
 Data is exported from the parent research workspace using `scripts/build_website.py`. Public assets deliberately omit local filesystem paths, downloaded third-party PDFs and internal working records. The only PDF hosted here is the review itself. Research papers open at their original public sources.
 
 GitHub Pages publishes the root of the main branch; `.nojekyll` disables Jekyll processing.
+
+
+## Locomotion expansion
+
+The atlas now includes 245 references, with 34 curated quadruped locomotion studies exposed separately from quadruped-arm studies. Research directions include locomotion, perceptive locomotion, and agility/parkour. The two newly collected papers are arXiv:2201.08117 and arXiv:2309.14341; their source PDFs remain in the private local library, with public primary-source links. The homepage uses an AI-generated conceptual pair portrait, compressed as a local JPEG; it does not identify commercial models.
