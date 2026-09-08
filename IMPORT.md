@@ -1,3 +1,9 @@
+# Maintainer-managed paper additions
+
+Public importing is disabled. The site does not initialize the browser import dialog or load browser-local imported records. To add literature, the maintainer edits `papers.custom.json`, validates entries using `LibraryImport.parse`, then commits and publishes the repository. Visitors can search, save and export published papers. The parser remains available internally for the published overlay.
+
+The following format reference also documents the former local importer; its public UI is no longer enabled.
+
 # Importing and publishing papers
 
 Choose **Import papers**, paste BibTeX or JSON (or choose a `.bib` / `.json` file), then select **Preview import**. The preview lists papers ready to add, duplicates, parsing errors, and omitted invalid links. **Add previewed papers** adds only the accepted records. Invalid records are not silently added.

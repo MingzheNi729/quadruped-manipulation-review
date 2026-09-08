@@ -46,3 +46,8 @@ Routes such as `#graph?seed=L260408508&basis=co-mention` are shareable. The page
 ### Export saved reading lists
 
 In Library, use **Save locally** on papers, then **Export reading list**. Choose all saved papers (independent of filters) or the current filtered results. CSV and BibTeX export directly; the reading-pack ZIP contains both plus a JSON manifest, a standard-library Python downloader, and instructions. Extract everything and run `python3 download_papers.py` (Windows: `py -3 download_papers.py`). Publicly accessible HTTPS PDFs are downloaded into `pdfs/`; existing PDFs passing header/end-marker checks are skipped, and missing links or failures are recorded in a CSV log. No account or extra Python packages are needed. The ZIP does not contain the PDFs themselves. Favorites remain browser-local.
+
+
+### Baselines, benchmarks and tools
+
+`toolbox-data.json` maintains the curated resource directory for `#baselines` and `#toolbox`. Each record includes its page, stable ID, category, robot, stack, description, setup notes, repository, optional project and paper links, license and source-check date. Add entries only after checking primary project documentation and license terms. Public source code with non-commercial or unverified terms must not be described as permissively open source. Training runs are not claimed as reproduced. Public paper imports are disabled; additions are maintained in the repository.
