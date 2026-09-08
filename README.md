@@ -33,3 +33,11 @@ The resource audit covers all 245 catalog entries: 69 papers have verified publi
 62 paper overviews are reproduced from the locally held original PDFs with author credit, source, page, and figure number. The website loads each compressed image only when needed; missing overviews are explicitly marked.
 
 Use **Import papers** for BibTeX/JSON preview, deduplication, browser-local storage, backup, and removal. See [IMPORT.md](IMPORT.md) for formats and publishing to the shared site through `papers.custom.json`. Imported records remain separate from manuscript citations. Both the runtime and repository exporter preserve the custom overlay and use the same normalizer.
+
+## Paper relationship explorer
+
+Open **Paper graph** or **Related papers** in any paper detail. Search for a starting paper, select a nearby node to inspect the connection, and choose **Make starting paper** to continue exploring. Zoom controls, pointer panning, keyboard node/list selection, and a responsive paper list are available.
+
+The graph uses shared catalog evidence, not a bibliographic citation database: each shared research subtopic contributes 3 points (generic survey/review tags excluded), an exact shared robot platform contributes 4, and an identical stored review paragraph contributes 5. Filters restrict which evidence counts. Up to 22 neighbors (12 on small screens) and 24 additional neighbor-to-neighbor edges are shown. The deterministic layout and scores are navigation aids, not scientific impact metrics. Source paragraphs can be expanded in the selected-node panel. Imported records participate through their supplied metadata; missing metadata may hide relationships.
+
+Routes such as `#graph?seed=L260408508&basis=co-mention` are shareable. The page uses local JavaScript, SVG, and CSS with no external graph service or framework. Link icons and the site mark are also local SVGs.
