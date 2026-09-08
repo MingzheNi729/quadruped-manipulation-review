@@ -41,3 +41,8 @@ Open **Paper graph** or **Related papers** in any paper detail. Search for a sta
 The graph uses shared catalog evidence, not a bibliographic citation database: each shared research subtopic contributes 3 points (generic survey/review tags excluded), an exact shared robot platform contributes 4, and an identical stored review paragraph contributes 5. Filters restrict which evidence counts. Up to 22 neighbors (12 on small screens) and 24 additional neighbor-to-neighbor edges are shown. The deterministic layout and scores are navigation aids, not scientific impact metrics. Source paragraphs can be expanded in the selected-node panel. Imported records participate through their supplied metadata; missing metadata may hide relationships.
 
 Routes such as `#graph?seed=L260408508&basis=co-mention` are shareable. The page uses local JavaScript, SVG, and CSS with no external graph service or framework. Link icons and the site mark are also local SVGs.
+
+
+### Export saved reading lists
+
+In Library, use **Save locally** on papers, then **Export reading list**. Choose all saved papers (independent of filters) or the current filtered results. CSV and BibTeX export directly; the reading-pack ZIP contains both plus a JSON manifest, a standard-library Python downloader, and instructions. Extract everything and run `python3 download_papers.py` (Windows: `py -3 download_papers.py`). Publicly accessible HTTPS PDFs are downloaded into `pdfs/`; existing PDFs passing header/end-marker checks are skipped, and missing links or failures are recorded in a CSV log. No account or extra Python packages are needed. The ZIP does not contain the PDFs themselves. Favorites remain browser-local.
